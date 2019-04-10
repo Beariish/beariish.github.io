@@ -18,15 +18,15 @@
 
 // Several accent colors, choose one or create your own!
 //$accent-color: #3CA2A2;    // original =)
-$accent-color: rgb(173, 46, 219);  // velvet
+$accent-color: rgb(179, 67, 219);  // velvet
 //$accent-color: #8FD6B3;  // greenish
 //$accent-color: #35B4DE;  // bluish
 //$accent-color: #D2E354;  // yellowish
 //$accent-color: #52B54B;  // green
 
-$font-color: #dddddd;
-$background-color: #292929;
-$post-panel-color: #39393a;
+$font-color: #cdcdcd;
+$background-color: #181818;
+$post-panel-color: #272727;
 $footer-background-color: #292c2f;
 $note-color: #87CEFA;
 $warning-color: #ffff00;
@@ -42,7 +42,6 @@ body {
 }
 .card {
   background-color: $post-panel-color;
-  box-shadow: 0 0 0 0, 0 8px 16px rgba(0, 0, 0, 0.2);
   border-radius: 6px;
   padding: 20px;
   font-size: 14px;
@@ -273,26 +272,8 @@ nav {
   .navbar-nav {
     margin-left: auto;
   }
-  .navbar.shrink {
-    min-height: 15px !important;
-  }
   .navbar-toggler {
     margin: 13px 15px 13px 0;
-  }
-  .shrink .navbar-toggler {
-    padding: 4px 5px;
-    margin: 8px 15px 8px 0;
-  }
-}
-
-nav.shrink {
-  a {
-    font-size: 15px;
-    padding: 0 10px !important;
-  }
-  .navbar-brand {
-    font-size: 25px;
-    height: inherit;
   }
 }
 
@@ -454,3 +435,8 @@ table.inner-borders {
   }
 }
 
+@media (min-width: 1600px) {
+  .container {
+      max-width: 1560px;
+  }
+}
