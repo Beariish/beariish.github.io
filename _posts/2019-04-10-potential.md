@@ -20,7 +20,7 @@ Coming soon  : )
 
 # Contributions
 
-- **PhysX** - I itegrated static collisions with PhysX, including cooking and instancing the rigidbodies and having them interact with the player.
+- **PhysX** - I integrated static collisions with PhysX, including cooking and instancing the rigidbodies and having them interact with the player.
 - **Networking** - I implemented all the backend for our networked messaging system.
 - **Scripting** - I wrote a scripting abstraction layer on top of Lua 5.1 with LuaJIT, used for events such as transitioning levels and opening doors.
 - **Player** - I implemented our player, including movement, shooting, animations, jumping, health and damage, sprinting, crouching, and reloading.
