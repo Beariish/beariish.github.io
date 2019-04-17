@@ -33,6 +33,20 @@ $warning-color: #ffff00;
 // use this or pick any from /css/pics/background folder or from transparenttextures.com
 $background-pattern: 'solid.png';
 
+.video-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+.video-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 //********************************************************
 //                  Common styles
 //********************************************************
