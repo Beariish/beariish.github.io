@@ -16,18 +16,11 @@ copyright: 2019-2019
 share:
   facebook: true
   twitter: true
-  gplus: true
   linkedin: true
-  pinterest: true
   email: true
 
 social:
   github: Beariish
-  stackoverflow: ''
-  linkedin:
-  instagram: ''
-  lastfm: ''
-  rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key:
