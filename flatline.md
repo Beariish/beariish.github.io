@@ -12,6 +12,6 @@ You can find links to their portfolios below:
 | [Niklas Andersson](https://niklas.computer/)         | [Timothy Karlsson](https://timothykarlsson.com/) | [Rickard Fjellvind](https://fjellvind.com/) | [Erik Östsjö](https://erikostsjo.com/)      |
 | [Christopher Gullberg Brady](http://www.christophergullbergbrady.com/) | [Desireé Törn Almö](https://desiree.artstation.com/) | [Vera Pedersen](https://verapedersen.artstation.com/) | [Andreas Petrovic](http://www.squids.se/) |
 | [Martin Ström](http://martin-strom.com/) | [Ludvig Ribbnäs](https://luribb.artstation.com/) | [Pål Schakonat](https://www.palschakonat.com/portfolio) ||
-| [Morris Ahlstrand](https://www.linkedin.com/in/morris-ahlstrand-a279a911b/) | [Elsa Varland](https://elsavarland.artstation.com/) |||
-| [Robert Parell](https://www.robertparrell.com/) ||||
+| [Morris Ahlstrand](https://www.morrisahlstrand.com/) | [Elsa Varland](https://elsavarland.artstation.com/) |||
+| [Robert Parerll](https://www.robertparrell.com/) ||||
 | [Henrik Jönsson](https://www.henrikjonsson.me/) ||||
