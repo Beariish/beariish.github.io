@@ -5,7 +5,7 @@ title: Game jams
 
 # Game Jams
 I've participated in many a gamejam, here are some of the best games I've made for them.
-All of these games were made in 48-72 hours, all solo. Code, art, sound design, and music was all done by me. 
+All of these games were made in 48-72 hours, all solo. Code, art, sound design, and music were all done by me. 
 
 <iframe frameborder="0" src="https://itch.io/embed/290557?linkback=true&amp;bg_color=27292d&amp;fg_color=e5e5e5&amp;link_color=ca08ee&amp;border_color=353333" width="552" height="167"></iframe><br>
 

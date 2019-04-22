@@ -26,6 +26,12 @@
     </li>
   {% endif %}
 
+  {% if site.social.twitter %}
+  <li>
+    <a title="{{ site.social.twitter }} on Twitter" href="https://twitter.com/{{ site.social.twitter }}" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
+  </li>
+{% endif %}
+
   {% if site.social.lastfm %}
     <li>
       <a title="{{ site.social.lastfm }} on Last.fm" href="https://www.lastfm.com/user/{{ site.social.lastfm }}" target="_blank"><i class="fab fa-lastfm fa-2x"></i></a>

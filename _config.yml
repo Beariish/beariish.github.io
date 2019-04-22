@@ -10,7 +10,7 @@ url: http://localhost:4000
 # For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
 baseurl: ''
 
-author: Niklas Anderson
+author: Niklas Andersson
 copyright: 2019-2019
 
 share:
@@ -21,6 +21,8 @@ share:
 
 social:
   github: Beariish
+  twitter: Beariish
+  linkedin: niklas-andersson-7a0268159
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key:
